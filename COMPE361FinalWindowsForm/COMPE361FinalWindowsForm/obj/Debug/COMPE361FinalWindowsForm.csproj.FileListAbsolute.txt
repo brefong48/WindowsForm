@@ -1,0 +1,15 @@
+C:\Users\bfpan\source\repos\COMPE361FinalWindowsForm\COMPE361FinalWindowsForm\bin\Debug\COMPE361FinalWindowsForm.exe.config
+C:\Users\bfpan\source\repos\COMPE361FinalWindowsForm\COMPE361FinalWindowsForm\bin\Debug\COMPE361FinalWindowsForm.exe
+C:\Users\bfpan\source\repos\COMPE361FinalWindowsForm\COMPE361FinalWindowsForm\bin\Debug\COMPE361FinalWindowsForm.pdb
+C:\Users\bfpan\source\repos\COMPE361FinalWindowsForm\COMPE361FinalWindowsForm\obj\Debug\COMPE361FinalWindowsForm.csproj.AssemblyReference.cache
+C:\Users\bfpan\source\repos\COMPE361FinalWindowsForm\COMPE361FinalWindowsForm\obj\Debug\COMPE361FinalWindowsForm.Form1.resources
+C:\Users\bfpan\source\repos\COMPE361FinalWindowsForm\COMPE361FinalWindowsForm\obj\Debug\COMPE361FinalWindowsForm.Properties.Resources.resources
+C:\Users\bfpan\source\repos\COMPE361FinalWindowsForm\COMPE361FinalWindowsForm\obj\Debug\COMPE361FinalWindowsForm.csproj.GenerateResource.cache
+C:\Users\bfpan\source\repos\COMPE361FinalWindowsForm\COMPE361FinalWindowsForm\obj\Debug\COMPE361FinalWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\bfpan\source\repos\COMPE361FinalWindowsForm\COMPE361FinalWindowsForm\obj\Debug\COMPE361FinalWindowsForm.exe
+C:\Users\bfpan\source\repos\COMPE361FinalWindowsForm\COMPE361FinalWindowsForm\obj\Debug\COMPE361FinalWindowsForm.pdb
+C:\Users\bfpan\source\repos\COMPE361FinalWindowsForm\COMPE361FinalWindowsForm\obj\Debug\COMPE361FinalWindowsForm.Homepage.resources
+C:\Users\bfpan\source\repos\COMPE361FinalWindowsForm\COMPE361FinalWindowsForm\obj\Debug\COMPE361FinalWindowsForm.Admin.resources
+C:\Users\bfpan\source\repos\COMPE361FinalWindowsForm\COMPE361FinalWindowsForm\obj\Debug\COMPE361FinalWindowsForm.Category.resources
+C:\Users\bfpan\source\repos\COMPE361FinalWindowsForm\COMPE361FinalWindowsForm\obj\Debug\COMPE361FinalWindowsForm.Inventory.resources
+C:\Users\bfpan\source\repos\COMPE361FinalWindowsForm\COMPE361FinalWindowsForm\obj\Debug\COMPE361FinalWindowsForm.Department.resources
